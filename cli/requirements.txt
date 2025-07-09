@@ -2,3 +2,4 @@ typer==0.7.0
 requests==2.28.1
 decorating==0.6.1
 gunicorn
+Werkzeug==2.3.7
